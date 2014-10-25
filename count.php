@@ -1,17 +1,9 @@
-<!DOCTYPE <html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<title></title>
-	</head>
-<body>
-
-
 <?php 
 
+	
 	function divisible() 
-	{
 
+	{
 		$x = 1;
 		
 		for($x=1; $x<101; $x++)
@@ -62,19 +54,6 @@
 				echo "$x </br>";
 
 			}
-
-			
-
-			
-			
 		}
-	
-	}	
-
+	}
 ?>
-
-</body>
-</html>
-
-
-
